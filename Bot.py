@@ -213,5 +213,4 @@ async def on_ready():
     await bot.change_presence(status=discord.Status.online, activity=activity)
     print(f"✅ Bot connecté en tant que {bot.user.name}")
 
-# Remplace le token ci-dessous par le tien
-bot.run("MTM2NzUzOTU5NjM2NzQ5OTQxNQ.Gz762U.bqNvsplPe6imyNdkan8mzTl9jL1Ky5gSpPkQlQ")
+)
